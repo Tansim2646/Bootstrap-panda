@@ -19,3 +19,21 @@
 .carousel__border__radius{
     border-radius: 20px;
 }
+
+
+.child__div{
+    
+    
+    &--1{
+        background-image: linear-gradient(to bottom,#FF9C35,#FFD019);
+        border-radius: 20px;
+    }
+    &--2{
+        background-image: linear-gradient(to bottom,#FF589B,#FF136F);
+        border-radius: 20px;
+    }
+    &--3{
+        background-image: linear-gradient(to bottom, #4289FF,#3F07F8);
+        border-radius: 20px;
+    }
+}
