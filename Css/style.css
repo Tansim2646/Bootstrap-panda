@@ -1,0 +1,18 @@
+.searchbox__size {
+  width: 35rem; }
+
+.carousel__background {
+  background-color: #FEEAE9; }
+
+.price {
+  color: #FF136F; }
+
+.buy__now__button {
+  background-color: #FF136F;
+  padding: 9px 25px;
+  color: white;
+  border: none;
+  border-radius: 8px; }
+
+.carousel__border__radius {
+  border-radius: 20px; }

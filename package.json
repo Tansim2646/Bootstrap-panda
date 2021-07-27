@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-panda",
+  "version": "1.0.0",
+  "description": "Bootsrap Panda website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass" : "node-sass Sass/main.scss Css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tansim2646/Bootstrap-panda.git"
+  },
+  "author": "Tansim Anjum Anim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tansim2646/Bootstrap-panda/issues"
+  },
+  "homepage": "https://github.com/Tansim2646/Bootstrap-panda#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
